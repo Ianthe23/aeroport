@@ -2,3 +2,4 @@
 kkol3, 113, Koln, Hamburg
 kkolh2, 156, Koln, Berlin
 abcde, 55, Tokyo, Osaka
+iiuu3, 22, Pitesti, Brasov

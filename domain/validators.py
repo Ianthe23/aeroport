@@ -13,7 +13,7 @@ class ZborValidator:
         if len(zbor.getDestination()) < 3:
             erori.append(colored("Destinatia zborului nu poate avea mai putin de 3 caractere!", "red"))
         if len(erori) > 0:
-            raise ValueError(erori)
+            raise ValueError(erori[0])
         
 def test_ZborValidator():
     validator = ZborValidator()
