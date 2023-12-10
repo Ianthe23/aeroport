@@ -85,8 +85,7 @@ class Console:
 
     def show_ui(self):
         print("\n")
-        print("   Bine ati venit la aeroport!   ")
-        print("\n")
+        print("   Bine ati venit la aeroport!   \n")
 
         exit = False
         while not (exit):
