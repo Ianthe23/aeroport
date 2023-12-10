@@ -8,6 +8,7 @@ class ZborService:
         """
         Metode constructor a serverului GRASP
         :param repo: repository-ul
+        :param validator: validatorul
         """
         self.__repo = repo
         self.__validator = validator
